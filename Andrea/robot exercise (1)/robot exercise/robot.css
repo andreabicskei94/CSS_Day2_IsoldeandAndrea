@@ -1,0 +1,52 @@
+img {
+    width: 50px;
+}
+
+#face {
+    width: 400px;
+}
+
+#eyes2 {
+    position: absolute;
+    top: 20%;
+    right: 75%;
+    transform: translate(-50%, 50%);
+    z-index: 30%;
+    width: 10%;
+}
+
+#mouth2 {
+    position: absolute;
+    top: 27%;
+    right: 71%;
+    transform: translate(-50%, 50%);
+    z-index: 30%;
+    width: 15%;
+}
+
+#nose2 {
+    position: absolute;
+    top: 27%;
+    right: 82%;
+    transform: translate(-50%, 50%);
+    z-index: 30%;
+    width: 3%;
+}
+
+#hat {
+    position: absolute;
+    bottom: 87%;
+    right: 69%;
+    transform: translate(-50%, 50%);
+    z-index: 30%;
+    width: 17%;
+}
+
+#ears1 {
+    position: absolute;
+    bottom: 80%;
+    right: 61%;
+    transform: translate(-50%, 50%);
+    z-index: 30%;
+    width: 26%;
+}
